@@ -10,4 +10,4 @@
 #
 # yeah.
 
-theme: jekyll-theme-hacker
+remote_theme: Hacker
