@@ -9,3 +9,5 @@
 # big malcolm todd fan
 #
 # yeah.
+
+theme: jekyll-theme-hacker
