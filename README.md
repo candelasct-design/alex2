@@ -10,4 +10,3 @@
 #
 # yeah.
 
-remote_theme: Hacker
